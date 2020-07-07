@@ -1,0 +1,7 @@
+.input_character{
+    padding: 5px;
+    border-radius:5px ;
+    width: 40%;
+    font-size: 32px;
+    height: 1.5em;
+}
